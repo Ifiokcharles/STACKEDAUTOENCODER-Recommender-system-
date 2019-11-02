@@ -1,0 +1,1 @@
+test loss: tensor(1.1599)
